@@ -1,0 +1,10 @@
+.about_me{
+    height: 500px;
+    width: 1000px;
+    background-color: aqua;
+    border-radius: 25%;
+}
+*{
+    align-items: center;
+    justify-content: center;
+}

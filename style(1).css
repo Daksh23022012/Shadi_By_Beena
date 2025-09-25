@@ -1,0 +1,14 @@
+*{
+    background-color: white;
+}
+#ad{
+    background-color: aqua;
+    color: azure;
+    border-radius: 25%;
+    width: 55px;
+    height: 25px;
+    margin-top: 5px;
+}
+#nm{
+   margin-top: 5px; 
+}
